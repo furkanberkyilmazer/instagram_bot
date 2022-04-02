@@ -1,0 +1,7 @@
+C:\Users\furka\Desktop\pro\instabot.exe
+C:\Users\furka\Desktop\pro\instabot.dll
+C:\Users\furka\Desktop\pro\instabot.deps.json
+C:\Users\furka\Desktop\pro\instabot.runtimeconfig.json
+C:\Users\furka\Desktop\pro\instabot.pdb
+C:\Users\furka\Desktop\pro\Newtonsoft.Json.dll
+C:\Users\furka\Desktop\pro\WebDriver.dll

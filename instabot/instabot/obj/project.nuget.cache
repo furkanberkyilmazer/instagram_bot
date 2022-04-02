@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QN7tzp+sk4GgHPHhJU2+DA79lSR08jv4i2zLwiOrbxMdgcnHLXXX16945KR75M/B0O4KeXEba0QZuSUADjVRUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\Desktop\\pro\\instabot\\instabot\\instabot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
